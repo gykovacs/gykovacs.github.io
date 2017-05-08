@@ -40,11 +40,11 @@ title: Professional experience
 <table border="0">
   <tbody>
     <tr>
-      <td style="width:18%", align="left">Jul. 2015 - Jun. 2016</td>
-      <td align="left", valign="top"><p style="font-size:16px"><strong><em>Quantitative Developer</em></strong> at Strats and Modeling Group</p></td>
+      <td style="width:18%" align="left">Jul. 2015 - Jun. 2016</td>
+      <td align="left" valign="top"><p style="font-size:16px"><strong><em>Quantitative Developer</em></strong> at Strats and Modeling Group</p></td>
     </tr>
     <tr>
-      <td align="left", valign="top">Budapest, Hungary</td>
+      <td align="left" valign="top">Budapest, Hungary</td>
       <td>
             <ul>
                 <li>Mathematical modeling of financial processes, development in C++ and Scala.</li>
@@ -59,11 +59,11 @@ title: Professional experience
 <table border="0">
   <tbody>
     <tr>
-      <td style="width:18%", align="left">Oct. 2013 -</td>
-      <td align="left", valign="top"><p style="font-size:16px"><strong><em>Chief Executive Officer</em></strong></p></td>
+      <td style="width:18%" align="left">Oct. 2013 -</td>
+      <td align="left" valign="top"><p style="font-size:16px"><strong><em>Chief Executive Officer</em></strong></p></td>
     </tr>
     <tr>
-      <td align="left", valign="top">Debrecen, Hungary</td>
+      <td align="left" valign="top">Debrecen, Hungary</td>
       <td>
             <ul>
                 <li>Software development, education, consulting in the fields of computer vision, machine learning and high performance computing.</li>
@@ -78,11 +78,11 @@ title: Professional experience
 <table border="0">
   <tbody>
     <tr>
-      <td style="width:18%", align="left">Sep. 2010 - Aug. 2014 </td>
-      <td align="left", valign="top"><p style="font-size:16px"><strong><em>Assistant Lecturer</em></strong> at Department of Computer Graphics and Image Processing</p></td>
+      <td style="width:18%" align="left">Sep. 2010 - Aug. 2014 </td>
+      <td align="left" valign="top"><p style="font-size:16px"><strong><em>Assistant Lecturer</em></strong> at Department of Computer Graphics and Image Processing</p></td>
     </tr>
     <tr>
-      <td align="left", valign="top">Debrecen, Hungary</td>
+      <td align="left" valign="top">Debrecen, Hungary</td>
       <td>
             <ul>
                 <li>Giving seminars, lectures and doing research in the fields of image processing, machine learning and high performance computing</li>
@@ -114,11 +114,11 @@ title: Professional experience
 <table border="0">
   <tbody>
     <tr>
-      <td style="width:18%", align="left">Jan. 2012 - Nov. 2013</td>
-      <td align="left", valign="top"><p style="font-size:16px"><strong><em>Writing textbooks in informatics</em></strong></p></td>
+      <td style="width:18%" align="left">Jan. 2012 - Nov. 2013</td>
+      <td align="left" valign="top"><p style="font-size:16px"><strong><em>Writing textbooks in informatics</em></strong></p></td>
     </tr>
     <tr>
-      <td align="left", valign="top">Debrecen, Hungary</td>
+      <td align="left" valign="top">Debrecen, Hungary</td>
       <td>
             <ul>
                 <li>TÁMOP-4.1.2.A/1-11/1-2011-0103 Béla Gyires Textbooks in Informatics</li>
@@ -127,11 +127,11 @@ title: Professional experience
       </td>
     </tr>
     <tr>
-      <td style="width:18%", align="left">Jan. 2012 - Nov. 2013</td>
-      <td align="left", valign="top"><p style="font-size:16px"><strong><em>Writing parallel programming textbooks</em></strong></p></td>
+      <td style="width:18%" align="left">Jan. 2012 - Nov. 2013</td>
+      <td align="left" valign="top"><p style="font-size:16px"><strong><em>Writing parallel programming textbooks</em></strong></p></td>
     </tr>
     <tr>
-      <td align="left", valign="top">Debrecen, Hungary</td>
+      <td align="left" valign="top">Debrecen, Hungary</td>
       <td>
             <ul>
                 <li>TÁMOP-4.1.2.A/1-11/1-2011-0063 Multi-processor systems in engineering</li>
@@ -140,11 +140,11 @@ title: Professional experience
       </td>
     </tr>
     <tr>
-      <td style="width:18%", align="left">Jun. 2009 - Nov. 2010</td>
-      <td align="left", valign="top"><p style="font-size:16px"><strong><em>HUCOMTECH</em></strong></p></td>
+      <td style="width:18%" align="left">Jun. 2009 - Nov. 2010</td>
+      <td align="left" valign="top"><p style="font-size:16px"><strong><em>HUCOMTECH</em></strong></p></td>
     </tr>
     <tr>
-      <td align="left", valign="top">Debrecen, Hungary</td>
+      <td align="left" valign="top">Debrecen, Hungary</td>
       <td>
             <ul>
                 <li>TÁMOP 4.2-08/1/0008-0009 Theoretical foundations of human computer interactions</li>
@@ -153,11 +153,11 @@ title: Professional experience
       </td>
     </tr>
     <tr>
-      <td style="width:18%", align="left">May. 2009 - Dec. 2011</td>
-      <td align="left", valign="top"><p style="font-size:16px"><strong><em>DRSCREEN</em></strong></p></td>
+      <td style="width:18%" align="left">May. 2009 - Dec. 2011</td>
+      <td align="left" valign="top"><p style="font-size:16px"><strong><em>DRSCREEN</em></strong></p></td>
     </tr>
     <tr>
-      <td align="left", valign="top">Debrecen, Hungary</td>
+      <td align="left" valign="top">Debrecen, Hungary</td>
       <td>
             <ul>
                 <li>TECH08-2 DRSCREEN - Developing a computer based image processing system for diabetic retinopathy screening (OM-00194/2008, OM-00195/2008, OM-00196/2008)</li>
@@ -166,11 +166,11 @@ title: Professional experience
       </td>
     </tr>
     <tr>
-      <td style="width:18%", align="left">Dec. 2006 - Mar. 2009</td>
-      <td align="left", valign="top"><p style="font-size:16px"><strong><em>MiniPET</em></strong></p></td>
+      <td style="width:18%" align="left">Dec. 2006 - Mar. 2009</td>
+      <td align="left" valign="top"><p style="font-size:16px"><strong><em>MiniPET</em></strong></p></td>
     </tr>
     <tr>
-      <td align="left", valign="top">Debrecen, Hungary</td>
+      <td align="left" valign="top">Debrecen, Hungary</td>
       <td>
             <ul>
                 <li>Jedlik Ányos Program of the National Innovation Office (Project 2006/A1)</li>
