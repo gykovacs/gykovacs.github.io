@@ -8,12 +8,12 @@ title: Professional experience
 <table>
   <tbody>
     <tr>
-      <td style="width:18%", align="left", valign="top">Oct. 2016 - </td>
-      <td align="left", valign="top"><p style="font-size:16px"><strong><em>Stuff Data Scientist</em></strong> in Advanced Analytics Team</p>
+      <td style="width:18%" align="left" valign="top">Oct. 2016 - </td>
+      <td align="left" valign="top"><p style="font-size:16px"><strong><em>Stuff Data Scientist</em></strong> in Advanced Analytics Team</p>
       </td>
     </tr>
     <tr>
-      <td align="left", valign="top">Budapest, Hungary</td>
+      <td align="left" valign="top">Budapest, Hungary</td>
       <td>
             <ul>
                 <li>Analysis and forecasting of corporate financial data, development of data analytics solutions iniPython environment and Big Data clouds.</li>
@@ -21,11 +21,11 @@ title: Professional experience
       </td>
     </tr>
     <tr>
-      <td style="width:18%", align="left">Aug. 2016 - Sep. 2016</td>
-      <td align="left", valign="top"><p style="font-size:16px"><strong><em>Data Scientist</em></strong> in Advanced Analytics Team</p></td>
+      <td style="width:18%" align="left">Aug. 2016 - Sep. 2016</td>
+      <td align="left" valign="top"><p style="font-size:16px"><strong><em>Data Scientist</em></strong> in Advanced Analytics Team</p></td>
     </tr>
     <tr>
-      <td align="left", valign="top">Budapest, Hungary</td>
+      <td align="left" valign="top">Budapest, Hungary</td>
       <td>
             <ul>
                 <li>Analysis of corporate financial data, development in iPython environment.</li>
