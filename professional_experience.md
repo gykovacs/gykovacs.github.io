@@ -7,7 +7,7 @@ title: Professional experience
 
 <table>
   <thead>
-    <th style="width:23%"></th>
+    <th style="width:20%"></th>
     <th></th>
   </thead>
   <tbody>
@@ -43,7 +43,7 @@ title: Professional experience
 
 <table border="0">
   <thead>
-    <th style="width:23%"></th>
+    <th style="width:20%"></th>
     <th></th>
   </thead>
   <tbody>
@@ -66,7 +66,7 @@ title: Professional experience
 
 <table border="0">
   <thead>
-    <th style="width:23%"></th>
+    <th style="width:20%"></th>
     <th></th>
   </thead>
   <tbody>
@@ -89,7 +89,7 @@ title: Professional experience
 
 <table border="0">
   <thead>
-    <th style="width:23%"></th>
+    <th style="width:20%"></th>
     <th></th>
   </thead>
   <tbody>
@@ -129,7 +129,7 @@ title: Professional experience
 
 <table border="0">
   <thead>
-    <th style="width:23%"></th>
+    <th style="width:20%"></th>
     <th></th>
   </thead>
   <tbody>
