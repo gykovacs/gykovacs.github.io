@@ -6,9 +6,13 @@ title: Professional experience
 ### <a href="www.ge.com">General Electric Infrastructure Holding Hungary Ltd.</a>
 
 <table>
+  <thead>
+    <th style="width:30%"></th>
+    <th></th>
+  </thead>
   <tbody>
     <tr>
-      <td style="width:25%" align="left" valign="top">Oct 2016 - </td>
+      <td align="left" valign="top">Oct 2016 - </td>
       <td align="left" valign="top"><p style="font-size:16px"><strong><em>Stuff Data Scientist</em></strong> in Advanced Analytics Team</p>
       </td>
     </tr>
@@ -21,7 +25,7 @@ title: Professional experience
       </td>
     </tr>
     <tr>
-      <td style="width:25%" align="left">Aug 2016 - Sep 2016</td>
+      <td align="left">Aug 2016 - Sep 2016</td>
       <td align="left" valign="top"><p style="font-size:16px"><strong><em>Data Scientist</em></strong> in Advanced Analytics Team</p></td>
     </tr>
     <tr>
