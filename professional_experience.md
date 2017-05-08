@@ -13,7 +13,7 @@ title: Professional experience
   <tbody>
     <tr>
       <td align="left" valign="top">Oct 2016 - </td>
-      <td align="left" valign="top"><p style="font-size:16px"><strong><em>Stuff Data Scientist</em></strong> in Advanced Analytics Team</p>
+      <td align="left" valign="top"><p><strong><em>Stuff Data Scientist</em></strong> in Advanced Analytics Team</p>
       </td>
     </tr>
     <tr>
@@ -26,7 +26,7 @@ title: Professional experience
     </tr>
     <tr>
       <td align="left">Aug 2016 - Sep 2016</td>
-      <td align="left" valign="top"><p style="font-size:16px"><strong><em>Data Scientist</em></strong> in Advanced Analytics Team</p></td>
+      <td align="left" valign="top"><p><strong><em>Data Scientist</em></strong> in Advanced Analytics Team</p></td>
     </tr>
     <tr>
       <td align="left" valign="top">Budapest, Hungary</td>
@@ -49,7 +49,7 @@ title: Professional experience
   <tbody>
     <tr>
       <td align="left" valign="top">Jul 2015 - Jun 2016</td>
-      <td align="left" valign="top"><p style="font-size:16px"><strong><em>Quantitative Developer</em></strong> at Strats and Modeling Group</p></td>
+      <td align="left" valign="top"><p><strong><em>Quantitative Developer</em></strong> at Strats and Modeling Group</p></td>
     </tr>
     <tr>
       <td align="left" valign="top">Budapest, Hungary</td>
@@ -72,7 +72,7 @@ title: Professional experience
   <tbody>
     <tr>
       <td align="left" valign="top">Oct 2013 -</td>
-      <td align="left" valign="top"><p style="font-size:16px"><strong><em>Chief Executive Officer</em></strong></p></td>
+      <td align="left" valign="top"><p><strong><em>Chief Executive Officer</em></strong></p></td>
     </tr>
     <tr>
       <td align="left" valign="top">Debrecen, Hungary</td>
@@ -95,7 +95,7 @@ title: Professional experience
   <tbody>
     <tr>
       <td align="left" valign="top">Sep 2010 - Aug 2014 </td>
-      <td align="left" valign="top"><p style="font-size:16px"><strong><em>Assistant Lecturer</em></strong> at Department of Computer Graphics and Image Processing</p></td>
+      <td align="left" valign="top"><p><strong><em>Assistant Lecturer</em></strong> at Department of Computer Graphics and Image Processing</p></td>
     </tr>
     <tr>
       <td align="left" valign="top">Debrecen, Hungary</td>
@@ -135,7 +135,7 @@ title: Professional experience
   <tbody>
     <tr>
       <td align="left" valign="top">Jan 2012 - Nov 2013</td>
-      <td align="left" valign="top"><p style="font-size:16px"><strong><em>Writing textbooks in informatics</em></strong></p></td>
+      <td align="left" valign="top"><p><strong><em>Writing textbooks in informatics</em></strong></p></td>
     </tr>
     <tr>
       <td align="left" valign="top">Debrecen, Hungary</td>
@@ -148,7 +148,7 @@ title: Professional experience
     </tr>
     <tr>
       <td align="left" valign="top">Jan 2012 - Nov 2013</td>
-      <td align="left" valign="top"><p style="font-size:16px"><strong><em>Writing parallel programming textbooks</em></strong></p></td>
+      <td align="left" valign="top"><p><strong><em>Writing parallel programming textbooks</em></strong></p></td>
     </tr>
     <tr>
       <td align="left" valign="top">Debrecen, Hungary</td>
@@ -161,7 +161,7 @@ title: Professional experience
     </tr>
     <tr>
       <td align="left" valign="top">Jun 2009 - Nov 2010</td>
-      <td align="left" valign="top"><p style="font-size:16px"><strong><em>HUCOMTECH</em></strong></p></td>
+      <td align="left" valign="top"><p><strong><em>HUCOMTECH</em></strong></p></td>
     </tr>
     <tr>
       <td align="left" valign="top">Debrecen, Hungary</td>
@@ -174,7 +174,7 @@ title: Professional experience
     </tr>
     <tr>
       <td align="left" valign="top">May 2009 - Dec 2011</td>
-      <td align="left" valign="top"><p style="font-size:16px"><strong><em>DRSCREEN</em></strong></p></td>
+      <td align="left" valign="top"><p><strong><em>DRSCREEN</em></strong></p></td>
     </tr>
     <tr>
       <td align="left" valign="top">Debrecen, Hungary</td>
@@ -187,7 +187,7 @@ title: Professional experience
     </tr>
     <tr>
       <td align="left" valign="top">Dec 2006 - Mar 2009</td>
-      <td align="left" valign="top"><p style="font-size:16px"><strong><em>MiniPET</em></strong></p></td>
+      <td align="left" valign="top"><p><strong><em>MiniPET</em></strong></p></td>
     </tr>
     <tr>
       <td align="left" valign="top">Debrecen, Hungary</td>
