@@ -27,3 +27,11 @@ github:
   repo:           https://github.com/gykovacs
 
 #gems: [jekyll-paginate]
+
+scholar:
+    style: apa
+    bibliography: refs.bib
+    bibliography_template: bibtemplate
+    replace_strings: true
+    query: "@*"
+    
