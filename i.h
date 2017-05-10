@@ -75,6 +75,12 @@
       
         
           
+            <a class="sidebar-nav-item" href="/">Home</a>
+          
+        
+      
+        
+          
             <a class="sidebar-nav-item" href="/professional_experience/">Professional experience</a>
           
         
@@ -86,7 +92,7 @@
         
       
       <a class="sidebar-nav-item" href="https://drive.google.com/open?id=0B3E8L0dtBKcsbmFIQkdoR2VtWms">Download detailed CV in PDF</a>
-<!--      <a class="sidebar-nav-item active" href="/">Blog</a> -->
+<!--      <a class="sidebar-nav-item" href="/">Blog</a> -->
         <a class="sidebar-nav-item" href="">Blog</a>
 <!--      <a class="sidebar-nav-item" href="https://github.com/gykovacs">GitHub project</a> -->
       <span class="sidebar-nav-item">Jekyll Hyde, Currently v2.1.0</span>
