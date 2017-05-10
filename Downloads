@@ -56,16 +56,16 @@
       
         
           
-            <a class="sidebar-nav-item active" href="/about/">Professional experience</a>
+            <a class="sidebar-nav-item active" href="/Downloads">Professional experience</a>
           
         
       
         
-      
+          
+            <a class="sidebar-nav-item" href="/about/">Professional experience</a>
+          
         
-          
-            <a class="sidebar-nav-item" href="/downloads/">Downloads</a>
-          
+      
         
       
         
@@ -75,12 +75,6 @@
         
           
             <a class="sidebar-nav-item" href="/professional_experience/">Professional experience</a>
-          
-        
-      
-        
-          
-            <a class="sidebar-nav-item" href="/publications/">Publications</a>
           
         
       
@@ -98,7 +92,7 @@
     <div class="content container">
       <div class="page">
   <h1 class="page-title">Professional experience</h1>
-  <h3><a href="www.ge.com">General Electric Infrastructure Holding Hungary Ltd.</a></h3>
+  ### <a href="www.ge.com">General Electric Infrastructure Holding Hungary Ltd.</a>
 
 <table>
   <tbody>
@@ -130,7 +124,7 @@
   </tbody>
 </table>
 
-<h3><a href="http://www.morganstanley.com/about-us/global-offices/hungary/">Morgan Stanley Hungary Analytics Ltd.</a></h3>
+### <a href="http://www.morganstanley.com/about-us/global-offices/hungary/">Morgan Stanley Hungary Analytics Ltd.</a>
 
 <table border="0">
   <tbody>
@@ -149,7 +143,7 @@
   </tbody>
 </table>
 
-<h3>Analytical Minds Ltd.</h3>
+### Analytical Minds Ltd.
 
 <table border="0">
   <tbody>
@@ -168,7 +162,7 @@
   </tbody>
 </table>
 
-<h3><a href="https://www.inf.unideb.hu">University of Debrecen, Faculty of Informatics</a></h3>
+### <a href="https://www.inf.unideb.hu">University of Debrecen, Faculty of Informatics</a>
 
 <table border="0">
   <tbody>
@@ -204,7 +198,7 @@
   </tbody>
 </table>
 
-<h3>Participation in Research + Development projects</h3>
+### Participation in Research + Development projects
 
 <table border="0">
   <tbody>

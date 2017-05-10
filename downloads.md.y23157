@@ -11,7 +11,7 @@
 
   <title>
     
-      Gyorgy Kovacs &middot; Gyorgy Kovacs
+      Downloads &middot; Gyorgy Kovacs
     
   </title>
 
@@ -36,10 +36,9 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <!--<a href="/">
+        <a href="/">
           Gyorgy Kovacs
-        </a>-->
-        Gyorgy Kovacs
+        </a>
       </h1>
       <p class="lead">PhD in Informatics</p>
     </div>
@@ -71,6 +70,12 @@
       
         
           
+            <a class="sidebar-nav-item active" href="/downloads.md.y23157">Downloads</a>
+          
+        
+      
+        
+          
         
       
         
@@ -81,13 +86,12 @@
       
         
           
-            <a class="sidebar-nav-item" href="/publications/">Full list of publications</a>
+            <a class="sidebar-nav-item" href="/publications/">Publications</a>
           
         
       
-      <a class="sidebar-nav-item" href="https://drive.google.com/open?id=0B3E8L0dtBKcsbmFIQkdoR2VtWms">Download detailed CV in PDF</a>
-<!--      <a class="sidebar-nav-item active" href="/">Blog</a> -->
-        <a class="sidebar-nav-item" href="">Blog</a>
+      <a class="sidebar-nav-item" href="https://drive.google.com/open?id=0B3E8L0dtBKcsbmFIQkdoR2VtWms">Detailed CV</a>
+      <a class="sidebar-nav-item" href="/">Blog</a>
 <!--      <a class="sidebar-nav-item" href="https://github.com/gykovacs">GitHub project</a> -->
       <span class="sidebar-nav-item">Jekyll Hyde, Currently v2.1.0</span>
     </nav>
@@ -98,18 +102,17 @@
 
 
     <div class="content container">
-      <div class="posts">
-  
+      <div class="page">
+  <h1 class="page-title">Downloads</h1>
+  ## Vessel segmentation
+
+The vessel segmentation software published in <a href="#j009">(Németh, Kovács, Fazekas, &amp; Palágyi, 2016)</a> is available in binary format compiled on Ubuntu 17.04 AMD64:
+
+[vessel-2017.05.10-Linux.deb][https://gykovacs.github.io/downloads/vessel-2017.05.10-Linux.deb]
+[vessel-2017.05.10-Linux.tar.gz][https://gykovacs.github.io/downloads/vessel-2017.05.10-Linux.tar.gz]
+
 </div>
 
-<div class="pagination">
-  
-    <span class="pagination-item older">Older</span>
-  
-  
-    <span class="pagination-item newer">Newer</span>
-  
-</div>
     </div>
 
   </body>
