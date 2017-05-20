@@ -11,7 +11,7 @@
 
   <title>
     
-      Downloads &middot; Gyorgy Kovacs
+      Downloads &middot; György Kovács
     
   </title>
 
@@ -36,10 +36,7 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <!--<a href="/">
-          Gyorgy Kovacs
-        </a>-->
-        Gyorgy Kovacs
+        György Kovács
       </h1>
       <p class="lead">PhD in Informatics</p>
     </div>
@@ -49,46 +46,12 @@
 
       
 
-      
-      
-        
-          
-        
-      
-        
-      
-        
-          
-            <a class="sidebar-nav-item active" href="/downloads/">Downloads</a>
-          
-        
-      
-        
-          
-        
-      
-        
-          
-            <a class="sidebar-nav-item" href="/">Home</a>
-          
-        
-      
-        
-          
-            <a class="sidebar-nav-item" href="/professional_experience/">Professional experience</a>
-          
-        
-      
-        
-          
-            <a class="sidebar-nav-item" href="/publications/">Full list of publications</a>
-          
-        
-      
-      <a class="sidebar-nav-item" href="https://drive.google.com/open?id=0B3E8L0dtBKcsbmFIQkdoR2VtWms">Download detailed CV in PDF</a>
-<!--      <a class="sidebar-nav-item" href="/">Blog</a> -->
-        <a class="sidebar-nav-item" href="">Blog</a>
-<!--      <a class="sidebar-nav-item" href="https://github.com/gykovacs">GitHub project</a> -->
+      <a class="sidebar-nav-item" href="/">Home</a>
+      <a class="sidebar-nav-item active" href="/downloads/">Downloads</a>
+      <a class="sidebar-nav-item" href="/publications/">Full list of publications</a>
+      <a class="sidebar-nav-item" href="https://drive.google.com/open?id=0B3E8L0dtBKcsNXV1d3BqUlF4MjQ">Download detailed CV in PDF</a>
+      <a class="sidebar-nav-item" href="http://gykovacsblog.wordpress.com">Blog</a>
+
       <span class="sidebar-nav-item">Jekyll Hyde, Currently v2.1.0</span>
     </nav>
 
@@ -104,11 +67,30 @@
 
 <h3>Introduction</h3>
 
-<p>The project aimed the segmentation of vessels in retinal images. For several reasons, the segmentation of the vascular system is one of the most researched problems of retinal image analysis: on the one hand, it can be used for the detection of various other anatomical parts; on the other hand, the geometry of the vessels can be used to infer on various diseases, like hypertension. </p>
+<p>For several reasons, the segmentation of the vascular system is one of the most researched problems of retinal image analysis: on the one hand, it can be used for the detection of various other anatomical parts; on the other hand, the geometry of the vessels can be used to infer on various diseases, like hypertension. We have developed a novel technique for the accurate segmentation of the vasculature. The method is described in the paper <a href="#j006">(1)</a>.</p>
+
+<h3>Example</h3>
+
+<p>To have an impression on what the software does, see the following input and output images.</p>
+
+<table style="width:40%">
+<thead>
+<tr>
+<th style="width:20%">Input</th>
+<th style="width:20%">Output</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://gykovacs.github.io/images/vessel/03_test.png"></td>
+<td><img src="https://gykovacs.github.io/images/vessel/03-release-inv.png"></td>
+</tr>
+</tbody>
+</table>
 
 <h3>Files</h3>
 
-<p>The vessel segmentation software published in <a href="#j006">(Kovács &amp; Hajdu, 2016)</a> is available in binary format compiled for Ubuntu 17.04 AMD64. The usage of the software is included in the README files:</p>
+<p>The implementation of the method described in <a href="#j006">(1)</a> is available in binary format compiled for Ubuntu 17.04 AMD64. The usage of the software is included in the README files:</p>
 
 <ul>
 <li>Ubuntu 17.04 AMD64: <a href="https://gykovacs.github.io/downloads/vessel-2017.05.10-Linux.deb">vessel-2017.05.10-Linux.deb</a></li>
@@ -118,7 +100,7 @@
 <h3>References</h3>
 
 <ol class="bibliography"><li><div class="text-justify">
-    <span id="j006">Kovács, G., &amp; Hajdu, A. (2016). A Self-Calibrating Approach for the Segmentation of Retinal Vessels by Template Matching and Contour Reconstruction. <i>Medical Image Analysis</i>, <i>29(4)</i>, 24–46. http://doi.org/10.1016/j.media.2015.12.003</span>
+    <span id="j006">Kovács, G., &amp; Hajdu, A. (2016). A Self-Calibrating Approach for the Segmentation of Retinal Vessels by Template Matching and Contour Reconstruction. <i>Medical Image Analysis</i>, <i>29(4)</i>, 24–46, (IF=4.565). https://doi.org/10.1016/j.media.2015.12.003</span>
 </div>
 
 <button class="button0" onclick="toggleBibtexj006()">Bibtex</button>
@@ -198,6 +180,6 @@ function toggleBibtexj006(parameter) {
 </div>
 
     </div>
-
+    
   </body>
 </html>
